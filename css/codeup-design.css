@@ -3,11 +3,6 @@
 
 * {
     box-sizing: border-box;
-
-}
-
-.bg-color{
-    background-color: lightgrey;
 }
 
 .font-abel{
@@ -54,9 +49,17 @@
     background-color: #e6e6e6;
 }
 
-.border {
+.border-white {
     border: solid white .35rem !important;
+}
+
+.border {
+    border: solid #e6e6e6 .35rem !important;
 }
 .div-text-center {
     padding-top: 2rem;
+}
+
+.col-6{
+    flex:none;
 }
