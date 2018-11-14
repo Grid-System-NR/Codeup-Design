@@ -53,3 +53,10 @@
 .bg-grey{
     background-color: #e6e6e6;
 }
+
+.border {
+    border: solid white .35rem !important;
+}
+.div-text-center {
+    padding-top: 2rem;
+}
