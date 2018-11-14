@@ -1,0 +1,35 @@
+
+@import url('https://fonts.googleapis.com/css?family=Abel%7CAnton');
+
+* {
+    box-sizing: border-box;
+
+}
+
+.bg-color{
+    background-color: lightgrey;
+}
+.color{
+    background-color: orange;
+}
+.font-abel{
+    font-family: 'Abel', sans-serif;
+}
+.font-anton{
+    font-family: 'Anton', sans-serif;
+}
+
+.logo{
+    background-image: url("../images/logo.jpg");
+
+}
+
+.circular {
+    border-radius: 20em;
+
+}
+
+.half-size{
+    max-width: 50%;
+    max-height: 50%;
+}
