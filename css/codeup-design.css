@@ -67,3 +67,25 @@
 .no-flex{
     flex:none;
 }
+
+.apples {
+    background-image: url("../images/apple-ipad.jpg");
+}
+
+.laptop{
+    background-image: url("../images/macbook.jpg");
+}
+
+.glasses-man {
+    background-image: url("../images/man.jpg");
+}
+
+.security {
+    background-image: url("../images/security.jpg");
+}
+
+.img-sizing {
+    display: block;
+    height: 150px;
+    width: 300px;
+}
