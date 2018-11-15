@@ -60,12 +60,17 @@
 .border {
     border: solid #e6e6e6 .35rem !important;
 }
+
+.border-small {
+    border: solid #e6e6e6 .15rem !important;
+}
+
 .div-text-center {
     padding-top: 2rem;
 }
 
 .no-flex{
-    flex:none;
+    flex:none !important;
 }
 
 .apples {
@@ -88,4 +93,8 @@
     display: block;
     height: 150px;
     width: 300px;
+}
+.img-sizing-small {
+    height: 50px;
+    width: 50px;
 }
