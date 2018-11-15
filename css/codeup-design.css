@@ -64,6 +64,6 @@
     padding-top: 2rem;
 }
 
-.col-6{
+.no-flex{
     flex:none;
 }
