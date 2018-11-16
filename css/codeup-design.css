@@ -127,6 +127,11 @@
     }
 }
 
+@media screen and (max-width: 575px) {
+    .image-fix {
+        margin-top: -5em;
+    }
+}
 
 .fab{
     color: #1da1f1;
